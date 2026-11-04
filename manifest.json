@@ -1,0 +1,13 @@
+﻿{
+  "name": "Demon's Crest Randomizer",
+  "game_name": "Demon's Crest Randomizer",
+  "platform": "SNES",
+  "package_version": "1.0",
+  "package_uid": "dc_rando_natananile",
+  "author": "Natan_Anile",
+  "variants": {
+    "standard": {
+      "display_name": "Item Tracker"
+    }
+  }
+}

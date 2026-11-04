@@ -1,0 +1,21 @@
+{
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "center",
+    "content": [
+      {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "5,5",
+        "item_size": 50,
+        "rows": [
+          ["fire_crest", "claw", "buster", "tornado", "demon_fire"],
+          ["Earth", "Air", "Water", "Time"],
+          ["potion", "mercury", "sulfur", "herb", "elixir", "ginseng"],
+          ["vellum", "shadow", "hold", "imp", "shock", "death"],
+          ["hand", "skull", "armor", "fang", "crown", "HP"]
+        ]
+      }
+    ]
+  }
+}

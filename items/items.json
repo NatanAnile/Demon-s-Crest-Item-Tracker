@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Fire Crest",
+    "type": "toggle",
+    "img": "images/fire-power.png",
+    "codes": "fire_crest"
+  },
+  {
+    "name": "Claw",
+    "type": "toggle",
+    "img": "images/claw.png",
+    "codes": "claw"
+  },
+  {
+    "name": "Buster",
+    "type": "toggle",
+    "img": "images/buster.png",
+    "codes": "buster"
+  },
+  {
+    "name": "Tornado",
+    "type": "toggle",
+    "img": "images/tornado.png",
+    "codes": "tornado"
+  },
+  {
+    "name": "Demon Fire",
+    "type": "toggle",
+    "img": "images/demon-fire.png",
+    "codes": "demon_fire"
+  },
+  {
+    "name": "Earth Crest",
+    "type": "toggle",
+    "img": "images/Earth.png",
+    "codes": "earth"
+  },
+  {
+    "name": "Air Crest",
+    "type": "toggle",
+    "img": "images/Air.png",
+    "codes": "Air"
+  },
+  {
+    "name": "Water Crest",
+    "type": "toggle",
+    "img": "images/water.png",
+    "codes": "water"
+  },
+  {
+    "name": "Time Crest",
+    "type": "toggle",
+    "img": "images/time.png",
+    "codes": "time"
+  },
+  {
+    "name": "Hand",
+    "type": "toggle",
+    "img": "images/Hand.png",
+    "codes": "Hand"
+  },
+  {
+    "name": "Skull",
+    "type": "toggle",
+    "img": "images/Skull.png",
+    "codes": "Skull"
+  },
+  {
+    "name": "Armor",
+    "type": "toggle",
+    "img": "images/Armor.png",
+    "codes": "Armor"
+  },
+  {
+    "name": "Fang",
+    "type": "toggle",
+    "img": "images/Fang.png",
+    "codes": "Fang"
+  },
+  {
+    "name": "Crown",
+    "type": "toggle",
+    "img": "images/Crown.png",
+    "codes": "Crown"
+  },
+  {
+    "name": "Herb",
+    "type": "toggle",
+    "img": "images/herb.png",
+    "codes": "herb"
+  },
+  {
+    "name": "Sulfur",
+    "type": "toggle",
+    "img": "images/Sulfur.png",
+    "codes": "Sulfur"
+  },
+  {
+    "name": "Elixir",
+    "type": "toggle",
+    "img": "images/Elixir.png",
+    "codes": "Elixir"
+  },
+  {
+    "name": "Mercury",
+    "type": "toggle",
+    "img": "images/Mercury.png",
+    "codes": "Mercury"
+  },
+  {
+    "name": "Ginseng",
+    "type": "toggle",
+    "img": "images/Ginseng.png",
+    "codes": "Ginseng"
+  },
+  {
+    "name": "Hold",
+    "type": "toggle",
+    "img": "images/Hold.png",
+    "codes": "Hold"
+  },
+  {
+    "name": "imp",
+    "type": "toggle",
+    "img": "images/imp.png",
+    "codes": "imp"
+  },
+  {
+    "name": "Shadow",
+    "type": "toggle",
+    "img": "images/Shadow.png",
+    "codes": "Shadow"
+  },
+    {
+    "name": "Death",
+    "type": "toggle",
+    "img": "images/Death.png",
+    "codes": "Death"
+  },
+    {
+    "name": "Shock",
+    "type": "toggle",
+    "img": "images/Shock.png",
+    "codes": "Shock"
+  },
+  {
+    "name": "HP",
+    "type": "consumable",
+    "img": "images/HP.png",
+    "max_quantity": 16,
+    "increment": 1,
+    "codes": "HP"
+  },
+  {
+    "name": "Vellum",
+    "type": "consumable",
+    "img": "images/Vellum.png",
+    "max_quantity": 5,
+    "increment": 1,
+    "codes": "Vellum"
+  },
+  {
+    "name": "Potion",
+    "type": "consumable",
+    "img": "images/Potion.png",
+    "max_quantity": 5,
+    "increment": 1,
+    "codes": "Potion"
+  }
+]
